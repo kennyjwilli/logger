@@ -5,7 +5,7 @@ A data-first logging approach.
 ## Installation
 
 ```clojure
-dev.kwill/logger {:mvn/version "1.0.0"}
+dev.kwill/logger {:mvn/version "1.0.1"}
 ```
 
 ## Usage

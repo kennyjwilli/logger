@@ -1,0 +1,4 @@
+{:paths ["src" "resources"]
+ :deps  {dev.kwill/logger                              {:local/root "../.."}
+         ch.qos.logback/logback-classic                {:mvn/version "1.4.11"}
+         net.logstash.logback/logstash-logback-encoder {:mvn/version "7.4"}}}
